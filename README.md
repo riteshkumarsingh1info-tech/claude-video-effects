@@ -1,3 +1,4 @@
+
 # 45 Video Effects for Claude
 
 Drop your video into Claude, type `/effects` and the name of an effect. That's the whole edit.
